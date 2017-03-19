@@ -1,0 +1,2 @@
+# JustJava
+Android çalışmaya başladım
